@@ -1,7 +1,16 @@
-Name: Veda
+I am Vedavathy and a Computer Science Student.
 
-Learning:
-- Git
-- GitHub
-- Java
+Current Focus:
+- Learning Git and GitHub
+- Java Programming
+- Data Structures and Algorithms
 - Web Development
+
+Skills Developing:
+- Version Control
+- Problem Solving
+- Web Design
+- Programming Fundamentals
+
+Goal:
+To become a skilled software developer by consistently building projects and improving technical knowledge.
