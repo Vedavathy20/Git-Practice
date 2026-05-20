@@ -1,0 +1,7 @@
+Name: Veda
+
+Learning:
+- Git
+- GitHub
+- Java
+- Web Development
