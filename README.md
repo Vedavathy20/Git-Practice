@@ -14,3 +14,8 @@ This repository documents my journey of learning Git and GitHub basics.
 - Learn branching
 - Learn pull requests
 - Build real projects
+
+## Progress
+- Initialized repository
+- Learned commits
+- Connected local repo with GitHub
