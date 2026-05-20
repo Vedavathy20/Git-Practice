@@ -9,3 +9,9 @@ git add . → Stage files
 git commit -m "message" → Save changes
 
 git push origin main → Push to GitHub
+
+git log → Shows commit history
+
+git branch → Lists branches
+
+git checkout → Switch branches
